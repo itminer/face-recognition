@@ -1,0 +1,4 @@
+1. install cmake=3.13.3
+2. install dlib=19.16.0
+3. install face_recognition
+4. install boost
